@@ -1,8 +1,8 @@
 FROM node:lts-buster
 
-RUN git clone https://github.com/AbhishekSuresh2/Phoenix-MD/ /root/Phoenix-MD
+RUN git clone https://github.com/Temitopeareo/abrobot1/ /root/abrobot1
 
-WORKDIR /root/Phoenix-MD
+WORKDIR /root/abrobot1
 
 RUN apt-get update && \
   apt-get install -y \
