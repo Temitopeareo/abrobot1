@@ -1,18 +1,18 @@
 {
-  "name": "Phoenix-MD",
+  "name": "Abro-MD",
   "description": "A Simple WhatsApp Bot",
   "version": "1.8.0",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "pm2 start . --attach --name Phoenix-MD"
+      "start": "pm2 start . --attach --name Abro-MD"
   },
   "keywords": [
    "termux",
    "whatsapp",
    "MD",
-   "Phoenix-MD",
+   "Abro-MD",
    "WhatsApp-MD",
    "baileys-md",
    "wa-bot",
@@ -21,7 +21,7 @@
    "terumx-bot",
    "multi-device"
   ],
-  "author": "Abhishek Suresh",
+  "author": "Abro Tech",
   "license": "Apache-2.0",
   "dependencies": {
    "@whiskeysockets/baileys": "^6.6.0",
@@ -93,10 +93,10 @@
  },
  "repository": {
   "type": "git",
-  "url": "git+https://github.com/AbhishekSuresh2/Phoenix-MD.git"
+  "url": "git+https://github.com/.git"
  },
  "bugs": {
-  "url": "https://github.com/AbhishekSuresh2/Phoenix-MD/issues"
+  "url": "https://github.com//issues"
  },
- "homepage": "https://github.com/AbhishekSuresh2/Phoenix-MD#readme"
+ "homepage": "https://github.com/Temitopeareo/abrobot1#readme"
 }
