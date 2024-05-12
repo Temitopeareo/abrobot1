@@ -1,8 +1,8 @@
 FROM node:lts-buster
 
-RUN git clone https://github.com/Temitopeareo/abrobot1/ /root/abrobot1
+RUN git clone https://github.com/Temitopeareo/abrobot1/ /root/Pheonix-MD
 
-WORKDIR /root/abrobot1
+WORKDIR /root/Pheonix-MD
 
 RUN apt-get update && \
   apt-get install -y \
