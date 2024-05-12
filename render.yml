@@ -1,9 +1,9 @@
 services:
   - type: web
-    name: Phoenix-MD
+    name: Abro-MD
     env: node
     branch: main
-    repo: https://github.com/AbhishekSuresh2/Phoenix-MD.git
+    repo: https://github.com/Temitopeareo/abrobot1.git
     buildCommand: npm install
     startCommand: npm start
     plan: free
@@ -12,21 +12,21 @@ services:
       - key: SESSION_ID
         sync: false
       - key: BOT_NAME
-        value: Phoenix-MD
+        value: Abro-MD
       - key: OWNER_NAME
-        value: Abhishek Suresh
+        value: Abro Tech
       - key: OWNER_NUMBER
-        value: 919074692450
+        value: 2348100151048
       - key: PREFIX
         value: .
       - key: MODE
-        value: public
+        value: private
       - key: STICKER_DATA
-        value: 🎯𝙿𝚑𝚘𝚎𝚗𝚒𝚡-𝙼𝙳;𝙰𝚋𝚑𝚒𝚜𝚑𝚎𝚔 𝚂𝚞𝚛𝚎𝚜𝚑☘️
+        value: 🎯Abro-𝙼𝙳;Abro Tech☘️
       - key: AUDIO_DATA
-        value: Phoenix-MD;Abhishek Suresh;https://graph.org/file/8976892f2f615077b48cd.jpg
+        value: Abro-MD;Abro Tech;https://imgur.com/sm0w91L.jpeg
       - key: SUDO
-        value: 917025673121
+        value: 2348100151048
       - key: AUTO_STATUS_READ
         value: false
       - key: SPAM_COUNT
