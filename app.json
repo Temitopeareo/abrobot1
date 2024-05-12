@@ -1,10 +1,10 @@
 {
-  "name": "Phoenix-MD",
+  "name": "Abro-MD",
   "version": "1.0.0",
-  "description": "Phoenix-MD Simple WhatsApp Bot",
-  "logo": "https://i.imgur.com/T78fhJk.jpeg",
-  "keywords": ["whatsapp", "bot", "md", "multi-device", "Phoenix", "Phoenix-MD", "wabot", "termux-bot", "sc-bot", "plugins", "AbhishekSuresh", "Whatsapp-bot-md"],
-  "repository": "https://github.com/AbhishekSuresh2/Phoenix-MD",
+  "description": "Abro-MD Simple WhatsApp Bot",
+  "logo": "https://i.imgur.com/sm0w91L.jpeg",
+  "keywords": ["whatsapp", "bot", "md", "multi-device", "wabot", "termux-bot", "sc-bot", "plugins", "Whatsapp-bot-md"],
+  "repository": "https://github.com/Temitopeareo/abrobot1",
   "stack": "container",
   "env": {
     "SESSION_ID": {
@@ -19,7 +19,7 @@
     "SUDO": {
       "description": "Enter Numbers With Country Code Without + Separated With , To Add More Numbers",
       "required": false,
-      "value": "919074692450"
+      "value": "2348100151048"
     },
     "SPAM_COUNT": {
       "description": "Enter Number Of Times To Send Spam Message Using .spam Command",
@@ -29,32 +29,32 @@
     "STICKER_DATA": {
       "description": "Enter Your Sticker PackName And Author Name",
       "required": false,
-      "value": "🎯𝙿𝚑𝚘𝚎𝚗𝚒𝚡-𝙼𝙳;𝙰𝚋𝚑𝚒𝚜𝚑𝚎𝚔 𝚂𝚞𝚛𝚎𝚜𝚑☘️"
+      "value": "🎯abrotech,abrobot☘️"
     },
     "AUDIO_DATA": {
       "description": "Enter Your Audio Data",
       "required": false,
-      "value": "Phoenix-MD;Abhishek Suresh;https://graph.org/file/8976892f2f615077b48cd.jpg"
+      "value": "Temitopeareo;abrobot1;https://imgur.com/sm0w91L.jepg"
     },
     "OWNER_NAME": {
       "description": "Enter Your Owner Name",
       "required": false,
-      "value": "Abhishek Suresh"
+      "value": "Abro tech"
     },
     "OWNER_NUMBER": {
       "description": "Enter Your Owner Number",
       "required": false,
-      "value": "919074692450"
+      "value": "2348100151048"
     },
     "BOT_NAME": {
       "description": "Enter Your Bot Name",
       "required": false,
-      "value": "Phoenix-MD"
+      "value": "Abro-MD"
     },
     "MODE": {
       "description": "Enter Your Mode Type public For Public Otherwise Type private",
       "required": false,
-      "value": "public"
+      "value": "private"
     },
     "HEROKU_APP_NAME": {
       "description": "Enter Your Heroku App Name Same As Above You Entered",
